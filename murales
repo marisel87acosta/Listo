@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>VEArte - murales</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="Index.html">VEArte</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- Grilla -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Murales</h2>
+                    <h3 class="section-subheading text-muted">Algunas de las obras mas conocidas </h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/imagenes/m1.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4></h4>
+                 </div>
+                </div>
+                 <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/imagenes/m2.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4></h4>
+                        
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/imagenes/cc2.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>mapa</h4>
+                        
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- Grilla Modal 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Contenido en desarollo</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Grilla Modal 2 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Contenido en desarollo</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Grilla Modal 3 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Contenido en desarollo</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+    <script>
+    window.onload = function() {
+          getLocation();
+        };
+        //////////////////
+        var x = document.getElementById("demo");
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition, showError);
+            } else { 
+                x.innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        function showPosition(position) {
+            lat = position.coords.latitude;
+            lon = position.coords.longitude;
+        //alert(lon+" "+lat)
+            //obtengo esculturas cercanas
+        var w=0;
+           $.getJSON('api.php?o=gnn&lat='+lat+'&lon='+lon+'', function(data) {
+            //data is the JSON string
+           // console.log(data);
+            //var result = jQuery.parseJSON(data);
+            for(var i=0;i<data.length;i++){
+                var obj = data[i];
+                var latLng = new google.maps.LatLng(obj.node_latitude, obj.node_longitude);
+                var marker = new google.maps.Marker({
+                    position: latLng,
+                    map: map,
+                    // icon: icon,
+                    title: obj.node_title
+                });
+                
+                marker.setMap(map);
+                
+                  var e;
+                 $.getJSON('api.php?o=ni&nid='+obj.nid+'', function(data2) {
+                 console.log(data2);
+                e=data2;
+                
+                    google.maps.event.addListener(marker, 'click', (function(marker, w) {
+                        return function() {
+                            var contentString = null;
+                            contentString = '<div style="color: #333; border-color: #038168!important;">'+
+                                '<h1>'+e[0].titulo+'</h1>'+
+                                    '<div id="bodyContent">'+
+                                    '<div class="scrollWrapper">'+
+                                        '<table style="width: 280px;">'+
+                                            '<tr>'+
+                                                '<td style="width: 150px;">'+
+                                                    '<h5> Autor: </h5>'+e[0].autor+'<div class="hr"><hr></div>'+
+                                                    '<h5> Tipo: </h5>'+e[0].tipo+'<div class="hr"><hr></div>'+
+                                                    '<h5> Material: </h5>'+e[0].material+'<div class="hr"><hr></div>'+
+                                                    '<h5> Evento: </h5>'+e[0].evento+
+                                                '</td>'+
+                                                '<td>'+
+                                                    '<img border="0" style="width: 150px; height: 180px;" align="left" src="'+e[3].uri+'">'+
+                                                '</td>'+
+                                            '</tr>'+
+                                        '</table>'+
+                                    '</div>'+
+                                '<div align="right">Saber mÃƒÂ¡s sobre <a href="'+e[2].url+'">'+''+e[0].titulo+'</a>.</div>'+
+                                '</div>'+
+                                '</div>';
+
+                            marker.setAnimation(google.maps.Animation.BOUNCE); //animaciÃƒÂ³n del marker
+                            setTimeout(function(){ marker.setAnimation(null); }, 2998); //tiempo de animaciÃƒÂ³n
+                            infoWindow.setContent(contentString);
+                            infoWindow.open(map, marker);
+                        }
+                    })(marker, w));
+                    i++;
+                    
+               // console.log(data2);
+                 /* for(var i=0;i<data2.length;i++){
+                    e = data2[i];
+                    
+                    for(var key in obj){
+                        var attrName = key;
+                        var attrValue = obj[key];
+                       console.log(key+" "+attrValue);
+                    }
+                }*/
+                    });
+                    
+                    /*
+                for(var key in obj){
+                    var attrName = key;
+                    var attrValue = obj[key];
+                    console.log(key+" "+attrValue);
+                }*/
+            }
+        });
+
+            ////////
+            latlon = new google.maps.LatLng(lat, lon)
+            mapholder = document.getElementById('mapholder')
+            mapholder.style.height = '250px';
+            mapholder.style.width = '500px';
+
+            var myOptions = {
+            center:latlon,zoom:14,
+            mapTypeId:google.maps.MapTypeId.ROADMAP,
+            mapTypeControl:false,
+            navigationControlOptions:{style:google.maps.NavigationControlStyle.SMALL}
+            }
+            
+            var map = new google.maps.Map(document.getElementById("mapholder"), myOptions);
+            var marker = new google.maps.Marker({position:latlon,icon:"https://www.craigslist.org/images/map/marker-icon.png",map:map,title:"Estas aqui"});
+        }
+
+        function showError(error) {
+            switch(error.code) {
+                case error.PERMISSION_DENIED:
+                    x.innerHTML = "El usuario denego la peticion de ubicacion."
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    x.innerHTML = "Informacion de ubicacion no disponible."
+                    break;
+                case error.TIMEOUT:
+                    x.innerHTML = "Tiempo de espera excedido."
+                    break;
+                case error.UNKNOWN_ERROR:
+                    x.innerHTML = "Error desconocido."
+                    break;
+            }
+        }
+    </script>
+</body>
+
+</html>
